@@ -7,12 +7,12 @@ input::-webkit-inner-spin-button {
 
 @font-face {
     font-family: "Manrope";
-    src: url("fontsRegular.ttf")
+    src: url("../fonts/Manrope-Regular.ttf")
 }
 
 @font-face {
     font-family: "Manrope-Bold";
-    src: url("fontsBold.ttf")
+    src: url("../fonts/Manrope-Bold.ttf")
 }
 
 * {
